@@ -3,6 +3,10 @@ Node.js
 inquirer
 MySQL
 
+# link to walkthrough video
+
+https://drive.google.com/file/d/1eLIdYCKidKPtelQGG1IRVuCqD_vJ3Qw-/view
+
 
 ## Table of Contents
 
@@ -24,7 +28,7 @@ You will have to clone the GitHub Repository to local machine & run "npm install
 
 ## How to use
 
-You will have to run the app by typing npm start in the command line.
+You will have to run the app by typing "node index.js" in the command line.
 
 ## Contributing
 
